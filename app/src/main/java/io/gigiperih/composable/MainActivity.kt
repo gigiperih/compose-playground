@@ -45,7 +45,7 @@ fun DefaultPreview() {
                     Text(
                         color = SteelGray,
                         fontWeight = FontWeight.Bold,
-                        text = "Kegantengan"
+                        text = "gaga"
                     )
                 }
             }
